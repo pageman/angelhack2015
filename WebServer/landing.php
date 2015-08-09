@@ -37,7 +37,7 @@
 						<li><a href="#section-advantages">Advantages</a></li>
 						<li><a href="#section-services">Services</a></li>
 						<li><a href="#section-contact">Contact</a></li>
-						<li><a href="#section-dashboard">Dashboard</a></li>
+						<li><a href="http://www.codesword.com/dashboard.php">Dashboard</a></li>
 					</ul>
 				</div><!--/.navbar-collapse -->
 			</div>
@@ -50,7 +50,7 @@
 						
 						<div class="align-center">
 							<!-- <i class="fa fa-flask fa-5x mar-bot20"></i> -->
-							<img src="" alt="Wrapper Icon here">
+							<img src="images/logo.png" alt="Wrapper Icon here">
 							<h2 class="slogan">Wrap It App!</h2>
 							<p>
 							Tired of spending too much time on integrating Ads, Tracking, Analytics and
@@ -64,7 +64,7 @@
 							<p><a class="btn btn-primary btn-lg" role="button" href="download/DiceRoller-1-2.apk">Download the App!</a></p>
 							-->
 							<p>
-								<a class="btn btn-primary btn-lg" role="button" href="">Visit your Dashboard!</a>
+								<a class="btn btn-primary btn-lg" role="button" href="http://www.codesword.com/dashboard.php">Visit your Dashboard!</a>
 							</p>
 						</div>
 					</div>
